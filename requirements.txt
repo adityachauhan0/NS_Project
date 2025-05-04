@@ -1,0 +1,14 @@
+streamlit==1.34.0
+pandas==2.2.2
+numpy==1.26.4
+networkx==3.3
+matplotlib==3.9.0
+scikit-learn==1.4.2
+shap==0.44.1
+node2vec==0.4.5
+pymnet==1.0.0
+hypernetx==2.2.0
+ndlib==5.1.1
+plotly>=5.20.0
+umap-learn>=0.5.5
+hdbscan>=0.8.33

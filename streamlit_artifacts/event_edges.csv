@@ -1,0 +1,712 @@
+source,target,relation,weight,timestamp
+Abdul Malik,0,classmates,0,2004-07-09
+Abdul Rauf,0,classmates,0,2004-09-22
+Abdul Rohim,0,classmates,0,2004-10-05
+Abdullah Sunata,0,classmates,0,2004-12-01
+Abdullah Sungkar,0,classmates,1,2004-10-18
+Abu Bakar Ba'asyir,0,classmates,1,2004-07-07
+Abu Dujanah,0,classmates,0,2004-06-28
+Abu Fida,0,classmates,0,2004-03-27
+Aceng Kurnia,0,classmates,0,2004-08-06
+Achmad Hasan,0,classmates,0,2004-02-20
+Adung,0,classmates,0,2004-12-05
+Agus Ahmad,0,classmates,0,2004-11-04
+Ahmad Rofiq Ridho,0,classmates,0,2004-02-13
+Ahmad Sayid Maulana,0,classmates,0,2004-10-13
+Ajengan Masduki,0,classmates,0,2004-02-12
+Akram,0,classmates,0,2004-09-20
+Ali Ghufron,0,classmates,0,2004-02-02
+Anif Solchanudin,0,classmates,0,2004-06-27
+Apuy,0,classmates,0,2004-08-28
+Aris Munandar,0,classmates,0,2004-09-23
+Asep Jaja,0,classmates,0,2004-06-01
+Asmar Latin Sani,0,classmates,1,2004-12-02
+Azhari Husin,0,classmates,0,2004-10-09
+Baharudin Soleh,0,classmates,1,2004-03-17
+Chandra,0,classmates,0,2004-09-01
+Cholily,0,classmates,0,2004-09-23
+Dani Chandra,0,classmates,0,2004-05-01
+Dulmatin,0,classmates,0,2004-09-26
+Enceng Kurnia,0,classmates,0,2004-11-23
+Engkos Kosasih,0,classmates,0,2004-10-25
+Fathurrahman al-Ghozi,0,classmates,0,2004-10-05
+Fathurrochman,0,classmates,0,2004-08-19
+Hambali,0,classmates,0,2004-04-08
+Hari Kuncoro,0,classmates,0,2004-10-17
+Harun,0,classmates,0,2004-05-12
+Hence Malewa,0,classmates,0,2004-07-13
+Heri Golun,0,classmates,0,2004-04-24
+Heri Sigu Samboja,0,classmates,0,2004-04-24
+Imam Bukhori,0,classmates,0,2004-02-27
+Imam Samudra,0,classmates,0,2004-12-16
+Iqbal,0,classmates,0,2004-02-23
+Iqbal Huseini,0,classmates,0,2004-02-01
+Irun Hidayat,0,classmates,0,2004-12-07
+Ismail,0,classmates,0,2004-07-21
+Iwan Dharmawan,0,classmates,0,2004-06-08
+Jabir,0,classmates,1,2004-09-26
+Joko Triharmanto,0,classmates,0,2004-05-19
+Joni Achmad Fauzan,0,classmates,0,2004-02-16
+Marwan,0,classmates,0,2004-09-23
+Misno,0,classmates,0,2004-03-05
+Mohamed Ihsan,0,classmates,1,2004-07-20
+Mohamed Rais,0,classmates,1,2004-12-12
+Mohamed Saifuddin (alias Faiz),0,classmates,0,2004-12-07
+Muchtar,0,classmates,0,2004-05-11
+Munfiatun,0,classmates,0,2004-10-11
+Mus'ab Sahidi,0,classmates,0,2004-08-11
+Muzayin Abdul Wahab,0,classmates,0,2004-06-23
+Nasir Abas,0,classmates,0,2004-02-21
+Noordin Mohammed Top,0,classmates,0,2004-05-17
+Purnama Putra,0,classmates,0,2004-08-25
+Qotadah,0,classmates,0,2004-12-26
+Rosihin Noor,0,classmates,0,2004-01-02
+Said Sungkar,0,classmates,0,2004-09-18
+Salik Firdaus,0,classmates,0,2004-11-04
+Salman,0,classmates,0,2004-12-13
+Saptono,0,classmates,0,2004-06-03
+Sardona Siliwangi,0,classmates,1,2004-02-13
+Son Hadi,0,classmates,0,2004-04-08
+Subur Sugiarto,0,classmates,0,2004-11-06
+Suramto,0,classmates,1,2004-11-16
+Tohir,0,classmates,1,2004-08-20
+Toni Togar,0,classmates,0,2004-02-14
+Ubeid,0,classmates,1,2004-02-14
+Umar,0,classmates,0,2004-06-23
+Umar Patek,0,classmates,0,2004-08-02
+Umar Wayan,0,classmates,0,2004-01-12
+Urwah,0,classmates,0,2004-09-07
+Usman bin Sef,0,classmates,0,2004-07-17
+Zulkarnaen,0,classmates,0,2004-01-05
+Abdul Malik,0,communications,0,2004-02-04
+Abdul Rauf,0,communications,0,2004-06-14
+Abdul Rohim,0,communications,0,2004-09-20
+Abdullah Sunata,0,communications,0,2004-10-28
+Abdullah Sungkar,0,communications,0,2004-06-06
+Abu Bakar Ba'asyir,0,communications,0,2004-04-17
+Abu Dujanah,0,communications,0,2004-12-19
+Abu Fida,0,communications,0,2004-06-16
+Aceng Kurnia,0,communications,0,2004-04-25
+Achmad Hasan,0,communications,0,2004-06-10
+Adung,0,communications,0,2004-01-05
+Agus Ahmad,0,communications,0,2004-04-20
+Ahmad Rofiq Ridho,0,communications,0,2004-07-07
+Ahmad Sayid Maulana,0,communications,0,2004-12-01
+Ajengan Masduki,0,communications,0,2004-09-26
+Akram,1,communications,0,2004-10-12
+Ali Ghufron,0,communications,0,2004-07-17
+Anif Solchanudin,0,communications,0,2004-02-10
+Apuy,0,communications,0,2004-05-22
+Aris Munandar,0,communications,0,2004-12-29
+Asep Jaja,0,communications,0,2004-01-17
+Asmar Latin Sani,0,communications,0,2004-11-16
+Azhari Husin,0,communications,0,2004-09-06
+Baharudin Soleh,0,communications,0,2004-04-13
+Chandra,0,communications,0,2004-10-10
+Cholily,0,communications,0,2004-11-01
+Dani Chandra,0,communications,0,2004-01-16
+Dulmatin,0,communications,0,2004-02-08
+Enceng Kurnia,0,communications,0,2004-08-30
+Engkos Kosasih,0,communications,0,2004-12-30
+Fathurrahman al-Ghozi,0,communications,0,2004-01-09
+Fathurrochman,0,communications,0,2004-08-30
+Hambali,0,communications,0,2004-02-19
+Hari Kuncoro,0,communications,0,2004-08-25
+Harun,0,communications,0,2004-08-15
+Hence Malewa,0,communications,0,2004-02-03
+Heri Golun,0,communications,0,2004-09-05
+Heri Sigu Samboja,0,communications,0,2004-11-23
+Imam Bukhori,0,communications,0,2004-11-11
+Imam Samudra,0,communications,0,2004-01-11
+Iqbal,0,communications,0,2004-03-30
+Iqbal Huseini,0,communications,0,2004-03-28
+Irun Hidayat,0,communications,0,2004-06-14
+Ismail,0,communications,0,2004-02-22
+Iwan Dharmawan,0,communications,0,2004-11-07
+Jabir,0,communications,0,2004-10-10
+Joko Triharmanto,0,communications,0,2004-10-22
+Joni Achmad Fauzan,0,communications,0,2004-03-13
+Marwan,0,communications,0,2004-01-06
+Misno,0,communications,0,2004-11-28
+Mohamed Ihsan,0,communications,0,2004-04-15
+Mohamed Rais,0,communications,0,2004-08-27
+Mohamed Saifuddin (alias Faiz),0,communications,0,2004-11-27
+Muchtar,0,communications,0,2004-01-14
+Munfiatun,0,communications,0,2004-01-02
+Mus'ab Sahidi,0,communications,0,2004-01-02
+Muzayin Abdul Wahab,0,communications,0,2004-02-27
+Nasir Abas,0,communications,0,2004-01-19
+Noordin Mohammed Top,0,communications,0,2004-10-26
+Purnama Putra,0,communications,0,2004-08-09
+Qotadah,0,communications,0,2004-12-23
+Rosihin Noor,0,communications,0,2004-10-19
+Said Sungkar,0,communications,0,2004-12-17
+Salik Firdaus,0,communications,0,2004-03-28
+Salman,0,communications,0,2004-04-15
+Saptono,0,communications,0,2004-11-06
+Sardona Siliwangi,0,communications,0,2004-03-30
+Son Hadi,0,communications,0,2004-01-21
+Subur Sugiarto,0,communications,0,2004-09-01
+Suramto,0,communications,0,2004-10-19
+Tohir,0,communications,0,2004-12-19
+Toni Togar,0,communications,0,2004-12-04
+Ubeid,0,communications,0,2004-02-13
+Umar,0,communications,0,2004-10-08
+Umar Patek,0,communications,0,2004-11-04
+Umar Wayan,0,communications,0,2004-09-11
+Urwah,0,communications,0,2004-10-26
+Usman bin Sef,0,communications,0,2004-11-01
+Zulkarnaen,0,communications,0,2004-06-11
+Abdul Malik,0,friendship,0,2004-01-15
+Abdul Rauf,0,friendship,0,2004-06-15
+Abdul Rohim,0,friendship,0,2004-03-14
+Abdullah Sunata,0,friendship,0,2004-02-11
+Abdullah Sungkar,0,friendship,0,2004-02-15
+Abu Bakar Ba'asyir,0,friendship,0,2004-09-11
+Abu Dujanah,0,friendship,0,2004-07-03
+Abu Fida,0,friendship,0,2004-07-16
+Aceng Kurnia,0,friendship,0,2004-09-28
+Achmad Hasan,0,friendship,0,2004-07-19
+Adung,0,friendship,0,2004-08-17
+Agus Ahmad,0,friendship,0,2004-02-01
+Ahmad Rofiq Ridho,0,friendship,0,2004-11-06
+Ahmad Sayid Maulana,0,friendship,0,2004-06-12
+Ajengan Masduki,0,friendship,0,2004-02-26
+Akram,0,friendship,0,2004-10-23
+Ali Ghufron,0,friendship,0,2004-09-25
+Anif Solchanudin,0,friendship,0,2004-01-20
+Apuy,0,friendship,0,2004-03-11
+Aris Munandar,0,friendship,0,2004-01-06
+Asep Jaja,0,friendship,0,2004-04-08
+Asmar Latin Sani,0,friendship,0,2004-02-06
+Azhari Husin,0,friendship,0,2004-09-16
+Baharudin Soleh,0,friendship,0,2004-07-09
+Chandra,0,friendship,0,2004-12-23
+Cholily,0,friendship,0,2004-09-30
+Dani Chandra,0,friendship,0,2004-08-11
+Dulmatin,0,friendship,0,2004-07-04
+Enceng Kurnia,0,friendship,0,2004-01-20
+Engkos Kosasih,0,friendship,0,2004-01-26
+Fathurrahman al-Ghozi,0,friendship,0,2004-08-12
+Fathurrochman,0,friendship,0,2004-01-02
+Hambali,0,friendship,0,2004-01-16
+Hari Kuncoro,0,friendship,0,2004-03-20
+Harun,0,friendship,0,2004-11-18
+Hence Malewa,0,friendship,0,2004-06-16
+Heri Golun,0,friendship,0,2004-09-15
+Heri Sigu Samboja,0,friendship,0,2004-05-30
+Imam Bukhori,0,friendship,0,2004-03-04
+Imam Samudra,0,friendship,0,2004-05-15
+Iqbal,0,friendship,0,2004-02-03
+Iqbal Huseini,0,friendship,0,2004-10-08
+Irun Hidayat,0,friendship,0,2004-03-07
+Ismail,0,friendship,0,2004-05-17
+Iwan Dharmawan,0,friendship,0,2004-12-23
+Jabir,0,friendship,0,2004-08-04
+Joko Triharmanto,0,friendship,0,2004-06-16
+Joni Achmad Fauzan,0,friendship,0,2004-07-17
+Marwan,0,friendship,0,2004-10-13
+Misno,0,friendship,0,2004-04-02
+Mohamed Ihsan,0,friendship,0,2004-08-20
+Mohamed Rais,0,friendship,0,2004-11-14
+Mohamed Saifuddin (alias Faiz),0,friendship,0,2004-07-27
+Muchtar,0,friendship,0,2004-06-11
+Munfiatun,0,friendship,0,2004-02-22
+Mus'ab Sahidi,0,friendship,0,2004-03-31
+Muzayin Abdul Wahab,0,friendship,0,2004-12-11
+Nasir Abas,0,friendship,0,2004-07-16
+Noordin Mohammed Top,0,friendship,0,2004-04-19
+Purnama Putra,0,friendship,0,2004-06-01
+Qotadah,0,friendship,0,2004-07-29
+Rosihin Noor,0,friendship,0,2004-07-15
+Said Sungkar,0,friendship,0,2004-09-12
+Salik Firdaus,0,friendship,0,2004-04-03
+Salman,0,friendship,0,2004-08-24
+Saptono,0,friendship,0,2004-06-10
+Sardona Siliwangi,0,friendship,0,2004-12-09
+Son Hadi,0,friendship,0,2004-02-27
+Subur Sugiarto,0,friendship,0,2004-02-24
+Suramto,0,friendship,0,2004-06-17
+Tohir,0,friendship,0,2004-07-04
+Toni Togar,0,friendship,0,2004-09-09
+Ubeid,0,friendship,0,2004-05-27
+Umar,0,friendship,0,2004-11-29
+Umar Patek,0,friendship,0,2004-06-22
+Umar Wayan,0,friendship,0,2004-02-17
+Urwah,0,friendship,0,2004-02-13
+Usman bin Sef,0,friendship,0,2004-12-21
+Zulkarnaen,0,friendship,0,2004-02-18
+Abdul Malik,0,kinship,0,2004-12-11
+Abdul Rauf,0,kinship,0,2004-04-11
+Abdul Rohim,0,kinship,0,2004-02-04
+Abdullah Sunata,0,kinship,0,2004-04-21
+Abdullah Sungkar,0,kinship,0,2004-08-12
+Abu Bakar Ba'asyir,0,kinship,0,2004-06-05
+Abu Dujanah,0,kinship,0,2004-10-13
+Abu Fida,0,kinship,0,2004-08-11
+Aceng Kurnia,0,kinship,0,2004-05-26
+Achmad Hasan,0,kinship,0,2004-08-19
+Adung,0,kinship,0,2004-12-20
+Agus Ahmad,0,kinship,0,2004-05-30
+Ahmad Rofiq Ridho,0,kinship,0,2004-02-26
+Ahmad Sayid Maulana,0,kinship,0,2004-05-29
+Ajengan Masduki,0,kinship,0,2004-11-02
+Akram,1,kinship,0,2004-03-20
+Ali Ghufron,0,kinship,0,2004-12-12
+Anif Solchanudin,0,kinship,0,2004-08-02
+Apuy,0,kinship,0,2004-08-07
+Aris Munandar,0,kinship,0,2004-04-25
+Asep Jaja,0,kinship,0,2004-12-01
+Asmar Latin Sani,0,kinship,0,2004-01-14
+Azhari Husin,0,kinship,0,2004-04-19
+Baharudin Soleh,0,kinship,0,2004-06-01
+Chandra,0,kinship,0,2004-06-23
+Cholily,0,kinship,0,2004-06-22
+Dani Chandra,0,kinship,0,2004-02-23
+Dulmatin,0,kinship,0,2004-03-23
+Enceng Kurnia,0,kinship,0,2004-02-04
+Engkos Kosasih,0,kinship,0,2004-07-27
+Fathurrahman al-Ghozi,0,kinship,0,2004-05-08
+Fathurrochman,0,kinship,0,2004-07-25
+Hambali,0,kinship,0,2004-08-03
+Hari Kuncoro,0,kinship,0,2004-09-13
+Harun,0,kinship,0,2004-07-18
+Hence Malewa,0,kinship,0,2004-08-24
+Heri Golun,0,kinship,0,2004-08-02
+Heri Sigu Samboja,0,kinship,0,2004-08-26
+Imam Bukhori,0,kinship,0,2004-08-13
+Imam Samudra,0,kinship,0,2004-04-25
+Iqbal,0,kinship,0,2004-03-30
+Iqbal Huseini,0,kinship,0,2004-10-14
+Irun Hidayat,0,kinship,0,2004-05-05
+Ismail,0,kinship,0,2004-07-19
+Iwan Dharmawan,0,kinship,0,2004-03-12
+Jabir,0,kinship,0,2004-06-06
+Joko Triharmanto,0,kinship,0,2004-07-12
+Joni Achmad Fauzan,0,kinship,0,2004-08-16
+Marwan,0,kinship,0,2004-07-11
+Misno,0,kinship,0,2004-05-11
+Mohamed Ihsan,0,kinship,0,2004-12-17
+Mohamed Rais,0,kinship,0,2004-07-06
+Mohamed Saifuddin (alias Faiz),0,kinship,0,2004-10-22
+Muchtar,0,kinship,0,2004-09-25
+Munfiatun,0,kinship,0,2004-07-22
+Mus'ab Sahidi,0,kinship,0,2004-11-19
+Muzayin Abdul Wahab,0,kinship,0,2004-02-16
+Nasir Abas,0,kinship,0,2004-12-02
+Noordin Mohammed Top,0,kinship,0,2004-11-06
+Purnama Putra,0,kinship,0,2004-07-02
+Qotadah,0,kinship,0,2004-09-24
+Rosihin Noor,0,kinship,0,2004-07-08
+Said Sungkar,0,kinship,0,2004-04-08
+Salik Firdaus,0,kinship,0,2004-10-18
+Salman,0,kinship,0,2004-03-30
+Saptono,0,kinship,0,2004-04-24
+Sardona Siliwangi,0,kinship,0,2004-07-08
+Son Hadi,0,kinship,0,2004-11-01
+Subur Sugiarto,0,kinship,0,2004-05-20
+Suramto,0,kinship,0,2004-06-29
+Tohir,0,kinship,0,2004-01-16
+Toni Togar,0,kinship,0,2004-02-12
+Ubeid,0,kinship,0,2004-01-21
+Umar,0,kinship,0,2004-01-27
+Umar Patek,0,kinship,0,2004-11-13
+Umar Wayan,0,kinship,0,2004-11-03
+Urwah,0,kinship,0,2004-10-26
+Usman bin Sef,0,kinship,0,2004-01-21
+Zulkarnaen,0,kinship,0,2004-01-29
+Abdul Malik,0,logistics,0,2004-04-12
+Abdul Rauf,0,logistics,0,2004-07-25
+Abdul Rohim,0,logistics,0,2004-05-01
+Abdullah Sunata,0,logistics,0,2004-06-26
+Abdullah Sungkar,0,logistics,0,2004-03-04
+Abu Bakar Ba'asyir,0,logistics,0,2004-09-23
+Abu Dujanah,0,logistics,0,2004-04-24
+Abu Fida,0,logistics,0,2004-01-25
+Aceng Kurnia,0,logistics,0,2004-09-28
+Achmad Hasan,0,logistics,0,2004-11-25
+Adung,0,logistics,0,2004-01-06
+Agus Ahmad,0,logistics,0,2004-06-08
+Ahmad Rofiq Ridho,0,logistics,0,2004-10-28
+Ahmad Sayid Maulana,0,logistics,0,2004-09-14
+Ajengan Masduki,0,logistics,0,2004-11-08
+Akram,1,logistics,0,2004-05-31
+Ali Ghufron,0,logistics,0,2004-05-15
+Anif Solchanudin,0,logistics,0,2004-09-15
+Apuy,0,logistics,0,2004-02-26
+Aris Munandar,0,logistics,0,2004-03-28
+Asep Jaja,0,logistics,0,2004-08-07
+Asmar Latin Sani,0,logistics,0,2004-08-31
+Azhari Husin,0,logistics,0,2004-02-13
+Baharudin Soleh,0,logistics,0,2004-07-04
+Chandra,0,logistics,0,2004-05-13
+Cholily,0,logistics,0,2004-07-02
+Dani Chandra,0,logistics,0,2004-12-15
+Dulmatin,0,logistics,0,2004-01-28
+Enceng Kurnia,0,logistics,0,2004-12-29
+Engkos Kosasih,0,logistics,0,2004-06-13
+Fathurrahman al-Ghozi,0,logistics,0,2004-10-08
+Fathurrochman,0,logistics,0,2004-06-03
+Hambali,0,logistics,0,2004-04-23
+Hari Kuncoro,0,logistics,0,2004-10-08
+Harun,0,logistics,0,2004-09-07
+Hence Malewa,0,logistics,0,2004-02-22
+Heri Golun,0,logistics,0,2004-09-14
+Heri Sigu Samboja,0,logistics,0,2004-10-01
+Imam Bukhori,0,logistics,0,2004-05-21
+Imam Samudra,0,logistics,0,2004-12-03
+Iqbal,0,logistics,0,2004-08-21
+Iqbal Huseini,0,logistics,0,2004-05-01
+Irun Hidayat,0,logistics,0,2004-01-04
+Ismail,0,logistics,0,2004-09-03
+Iwan Dharmawan,0,logistics,0,2004-03-17
+Jabir,0,logistics,0,2004-10-03
+Joko Triharmanto,0,logistics,0,2004-07-10
+Joni Achmad Fauzan,0,logistics,0,2004-06-19
+Marwan,0,logistics,0,2004-02-29
+Misno,0,logistics,0,2004-09-16
+Mohamed Ihsan,0,logistics,0,2004-03-01
+Mohamed Rais,0,logistics,0,2004-06-01
+Mohamed Saifuddin (alias Faiz),0,logistics,0,2004-11-01
+Muchtar,0,logistics,0,2004-12-01
+Munfiatun,0,logistics,0,2004-12-27
+Mus'ab Sahidi,0,logistics,0,2004-12-15
+Muzayin Abdul Wahab,0,logistics,0,2004-07-21
+Nasir Abas,0,logistics,0,2004-03-14
+Noordin Mohammed Top,0,logistics,0,2004-11-02
+Purnama Putra,0,logistics,0,2004-10-19
+Qotadah,0,logistics,0,2004-12-27
+Rosihin Noor,0,logistics,0,2004-08-25
+Said Sungkar,0,logistics,0,2004-02-21
+Salik Firdaus,0,logistics,0,2004-07-02
+Salman,0,logistics,0,2004-06-12
+Saptono,0,logistics,0,2004-11-03
+Sardona Siliwangi,0,logistics,0,2004-05-23
+Son Hadi,0,logistics,0,2004-04-29
+Subur Sugiarto,0,logistics,0,2004-01-30
+Suramto,0,logistics,0,2004-10-31
+Tohir,0,logistics,0,2004-10-02
+Toni Togar,0,logistics,0,2004-01-16
+Ubeid,0,logistics,0,2004-06-07
+Umar,0,logistics,0,2004-06-24
+Umar Patek,0,logistics,0,2004-06-20
+Umar Wayan,0,logistics,0,2004-12-01
+Urwah,0,logistics,0,2004-02-24
+Usman bin Sef,0,logistics,0,2004-04-21
+Zulkarnaen,0,logistics,0,2004-03-07
+Abdul Malik,0,meetings,0,2004-03-30
+Abdul Rauf,0,meetings,0,2004-11-27
+Abdul Rohim,0,meetings,0,2004-12-09
+Abdullah Sunata,0,meetings,0,2004-01-17
+Abdullah Sungkar,0,meetings,0,2004-08-18
+Abu Bakar Ba'asyir,0,meetings,0,2004-03-25
+Abu Dujanah,0,meetings,0,2004-03-11
+Abu Fida,0,meetings,0,2004-04-16
+Aceng Kurnia,0,meetings,0,2004-03-11
+Achmad Hasan,0,meetings,0,2004-06-27
+Adung,0,meetings,0,2004-12-29
+Agus Ahmad,0,meetings,0,2004-08-02
+Ahmad Rofiq Ridho,0,meetings,0,2004-09-20
+Ahmad Sayid Maulana,0,meetings,0,2004-06-29
+Ajengan Masduki,0,meetings,0,2004-01-06
+Akram,0,meetings,0,2004-01-31
+Ali Ghufron,0,meetings,0,2004-04-08
+Anif Solchanudin,0,meetings,0,2004-03-29
+Apuy,0,meetings,0,2004-11-02
+Aris Munandar,0,meetings,0,2004-11-03
+Asep Jaja,0,meetings,0,2004-11-07
+Asmar Latin Sani,0,meetings,0,2004-08-20
+Azhari Husin,0,meetings,0,2004-07-22
+Baharudin Soleh,0,meetings,0,2004-08-24
+Chandra,0,meetings,0,2004-05-28
+Cholily,0,meetings,0,2004-09-01
+Dani Chandra,0,meetings,0,2004-10-16
+Dulmatin,0,meetings,0,2004-10-05
+Enceng Kurnia,0,meetings,0,2004-08-12
+Engkos Kosasih,0,meetings,0,2004-01-22
+Fathurrahman al-Ghozi,0,meetings,0,2004-09-21
+Fathurrochman,0,meetings,0,2004-05-13
+Hambali,0,meetings,0,2004-09-28
+Hari Kuncoro,0,meetings,0,2004-07-15
+Harun,0,meetings,0,2004-11-17
+Hence Malewa,0,meetings,0,2004-05-03
+Heri Golun,0,meetings,0,2004-12-05
+Heri Sigu Samboja,0,meetings,0,2004-11-04
+Imam Bukhori,0,meetings,0,2004-04-30
+Imam Samudra,0,meetings,0,2004-06-25
+Iqbal,0,meetings,0,2004-07-12
+Iqbal Huseini,0,meetings,0,2004-10-07
+Irun Hidayat,0,meetings,0,2004-09-08
+Ismail,0,meetings,0,2004-11-06
+Iwan Dharmawan,0,meetings,0,2004-05-15
+Jabir,0,meetings,0,2004-07-03
+Joko Triharmanto,0,meetings,0,2004-06-06
+Joni Achmad Fauzan,0,meetings,0,2004-11-27
+Marwan,0,meetings,0,2004-04-21
+Misno,0,meetings,0,2004-08-02
+Mohamed Ihsan,0,meetings,0,2004-02-13
+Mohamed Rais,0,meetings,0,2004-11-06
+Mohamed Saifuddin (alias Faiz),0,meetings,0,2004-05-20
+Muchtar,0,meetings,0,2004-05-04
+Munfiatun,0,meetings,0,2004-07-31
+Mus'ab Sahidi,0,meetings,0,2004-07-01
+Muzayin Abdul Wahab,0,meetings,0,2004-11-05
+Nasir Abas,0,meetings,0,2004-07-12
+Noordin Mohammed Top,0,meetings,0,2004-07-07
+Purnama Putra,0,meetings,0,2004-02-08
+Qotadah,0,meetings,0,2004-01-09
+Rosihin Noor,0,meetings,0,2004-05-25
+Said Sungkar,0,meetings,0,2004-12-30
+Salik Firdaus,0,meetings,0,2004-11-30
+Salman,0,meetings,0,2004-08-17
+Saptono,0,meetings,0,2004-08-18
+Sardona Siliwangi,0,meetings,0,2004-05-22
+Son Hadi,0,meetings,0,2004-03-05
+Subur Sugiarto,0,meetings,0,2004-01-04
+Suramto,0,meetings,0,2004-05-03
+Tohir,0,meetings,0,2004-04-25
+Toni Togar,0,meetings,0,2004-03-10
+Ubeid,0,meetings,0,2004-04-04
+Umar,0,meetings,0,2004-01-10
+Umar Patek,0,meetings,0,2004-08-09
+Umar Wayan,0,meetings,0,2004-12-04
+Urwah,0,meetings,0,2004-09-09
+Usman bin Sef,0,meetings,0,2004-06-12
+Zulkarnaen,0,meetings,0,2004-06-02
+Abdul Malik,0,operations,0,2004-04-22
+Abdul Rauf,0,operations,0,2004-02-21
+Abdul Rohim,0,operations,0,2004-08-06
+Abdullah Sunata,0,operations,0,2004-07-25
+Abdullah Sungkar,0,operations,0,2004-01-03
+Abu Bakar Ba'asyir,0,operations,0,2004-05-31
+Abu Dujanah,0,operations,0,2004-04-11
+Abu Fida,0,operations,0,2004-03-03
+Aceng Kurnia,0,operations,0,2004-09-13
+Achmad Hasan,0,operations,0,2004-07-10
+Adung,0,operations,0,2004-08-19
+Agus Ahmad,0,operations,0,2004-09-17
+Ahmad Rofiq Ridho,0,operations,0,2004-12-24
+Ahmad Sayid Maulana,0,operations,0,2004-10-20
+Ajengan Masduki,0,operations,0,2004-08-14
+Akram,0,operations,0,2004-11-16
+Ali Ghufron,0,operations,1,2004-06-23
+Anif Solchanudin,0,operations,0,2004-12-25
+Apuy,0,operations,0,2004-10-04
+Aris Munandar,0,operations,0,2004-08-25
+Asep Jaja,0,operations,0,2004-11-25
+Asmar Latin Sani,0,operations,0,2004-07-07
+Azhari Husin,0,operations,1,2004-09-20
+Baharudin Soleh,0,operations,0,2004-04-13
+Chandra,0,operations,0,2004-12-17
+Cholily,0,operations,0,2004-08-15
+Dani Chandra,0,operations,0,2004-10-12
+Dulmatin,0,operations,1,2004-06-17
+Enceng Kurnia,0,operations,0,2004-11-12
+Engkos Kosasih,0,operations,0,2004-01-28
+Fathurrahman al-Ghozi,0,operations,0,2004-02-11
+Fathurrochman,0,operations,0,2004-07-04
+Hambali,0,operations,1,2004-09-24
+Hari Kuncoro,0,operations,0,2004-10-22
+Harun,0,operations,0,2004-06-09
+Hence Malewa,0,operations,0,2004-08-25
+Heri Golun,0,operations,0,2004-07-20
+Heri Sigu Samboja,0,operations,0,2004-12-16
+Imam Bukhori,0,operations,0,2004-08-26
+Imam Samudra,0,operations,1,2004-06-01
+Iqbal,0,operations,1,2004-12-19
+Iqbal Huseini,0,operations,0,2004-02-09
+Irun Hidayat,0,operations,0,2004-12-25
+Ismail,0,operations,0,2004-02-26
+Iwan Dharmawan,0,operations,0,2004-04-15
+Jabir,0,operations,0,2004-10-26
+Joko Triharmanto,0,operations,0,2004-09-24
+Joni Achmad Fauzan,0,operations,0,2004-12-20
+Marwan,0,operations,0,2004-09-30
+Misno,0,operations,0,2004-08-20
+Mohamed Ihsan,0,operations,1,2004-05-06
+Mohamed Rais,0,operations,0,2004-01-02
+Mohamed Saifuddin (alias Faiz),0,operations,0,2004-02-15
+Muchtar,0,operations,0,2004-04-18
+Munfiatun,0,operations,0,2004-01-15
+Mus'ab Sahidi,0,operations,0,2004-07-04
+Muzayin Abdul Wahab,0,operations,0,2004-10-10
+Nasir Abas,0,operations,0,2004-12-17
+Noordin Mohammed Top,0,operations,0,2004-06-27
+Purnama Putra,0,operations,0,2004-11-15
+Qotadah,0,operations,0,2004-12-25
+Rosihin Noor,0,operations,0,2004-11-09
+Said Sungkar,0,operations,0,2004-06-18
+Salik Firdaus,0,operations,0,2004-04-28
+Salman,0,operations,0,2004-12-22
+Saptono,0,operations,0,2004-03-29
+Sardona Siliwangi,0,operations,0,2004-05-30
+Son Hadi,0,operations,0,2004-01-28
+Subur Sugiarto,0,operations,0,2004-10-16
+Suramto,0,operations,0,2004-08-25
+Tohir,0,operations,0,2004-01-31
+Toni Togar,0,operations,1,2004-03-22
+Ubeid,0,operations,0,2004-07-21
+Umar,0,operations,0,2004-07-16
+Umar Patek,0,operations,1,2004-10-19
+Umar Wayan,0,operations,0,2004-04-07
+Urwah,0,operations,0,2004-12-03
+Usman bin Sef,0,operations,0,2004-06-11
+Zulkarnaen,0,operations,0,2004-10-27
+Abdul Malik,0,soulmates,0,2004-03-28
+Abdul Rauf,0,soulmates,0,2004-01-14
+Abdul Rohim,0,soulmates,0,2004-01-21
+Abdullah Sunata,0,soulmates,0,2004-05-16
+Abdullah Sungkar,0,soulmates,0,2004-12-13
+Abu Bakar Ba'asyir,0,soulmates,0,2004-01-18
+Abu Dujanah,0,soulmates,0,2004-05-14
+Abu Fida,0,soulmates,0,2004-02-09
+Aceng Kurnia,0,soulmates,0,2004-12-06
+Achmad Hasan,0,soulmates,0,2004-09-03
+Adung,0,soulmates,0,2004-10-05
+Agus Ahmad,0,soulmates,0,2004-09-17
+Ahmad Rofiq Ridho,0,soulmates,0,2004-08-27
+Ahmad Sayid Maulana,0,soulmates,0,2004-10-09
+Ajengan Masduki,0,soulmates,0,2004-01-03
+Akram,0,soulmates,0,2004-11-11
+Ali Ghufron,0,soulmates,0,2004-09-27
+Anif Solchanudin,0,soulmates,0,2004-09-26
+Apuy,0,soulmates,0,2004-05-23
+Aris Munandar,0,soulmates,0,2004-10-19
+Asep Jaja,0,soulmates,0,2004-05-19
+Asmar Latin Sani,0,soulmates,0,2004-01-18
+Azhari Husin,0,soulmates,0,2004-11-27
+Baharudin Soleh,0,soulmates,0,2004-03-26
+Chandra,0,soulmates,0,2004-02-07
+Cholily,0,soulmates,0,2004-08-14
+Dani Chandra,0,soulmates,0,2004-03-26
+Dulmatin,0,soulmates,0,2004-11-09
+Enceng Kurnia,0,soulmates,0,2004-06-10
+Engkos Kosasih,0,soulmates,0,2004-01-02
+Fathurrahman al-Ghozi,0,soulmates,0,2004-12-13
+Fathurrochman,0,soulmates,0,2004-07-06
+Hambali,0,soulmates,0,2004-04-05
+Hari Kuncoro,0,soulmates,0,2004-09-04
+Harun,0,soulmates,0,2004-07-12
+Hence Malewa,0,soulmates,0,2004-01-11
+Heri Golun,0,soulmates,0,2004-10-04
+Heri Sigu Samboja,0,soulmates,0,2004-05-26
+Imam Bukhori,0,soulmates,0,2004-09-12
+Imam Samudra,0,soulmates,0,2004-11-22
+Iqbal,0,soulmates,0,2004-08-10
+Iqbal Huseini,0,soulmates,0,2004-09-02
+Irun Hidayat,0,soulmates,0,2004-04-02
+Ismail,0,soulmates,0,2004-03-27
+Iwan Dharmawan,0,soulmates,0,2004-05-31
+Jabir,0,soulmates,0,2004-11-07
+Joko Triharmanto,0,soulmates,0,2004-07-10
+Joni Achmad Fauzan,0,soulmates,0,2004-05-07
+Marwan,0,soulmates,0,2004-10-11
+Misno,0,soulmates,0,2004-11-07
+Mohamed Ihsan,0,soulmates,0,2004-11-25
+Mohamed Rais,0,soulmates,0,2004-04-19
+Mohamed Saifuddin (alias Faiz),0,soulmates,0,2004-09-16
+Muchtar,0,soulmates,0,2004-08-03
+Munfiatun,0,soulmates,0,2004-06-12
+Mus'ab Sahidi,0,soulmates,0,2004-05-24
+Muzayin Abdul Wahab,0,soulmates,0,2004-02-11
+Nasir Abas,0,soulmates,0,2004-04-10
+Noordin Mohammed Top,0,soulmates,0,2004-07-19
+Purnama Putra,0,soulmates,0,2004-11-19
+Qotadah,0,soulmates,0,2004-11-12
+Rosihin Noor,0,soulmates,0,2004-03-09
+Said Sungkar,0,soulmates,0,2004-09-04
+Salik Firdaus,0,soulmates,0,2004-01-31
+Salman,0,soulmates,0,2004-09-03
+Saptono,0,soulmates,0,2004-05-04
+Sardona Siliwangi,0,soulmates,0,2004-06-13
+Son Hadi,0,soulmates,0,2004-09-18
+Subur Sugiarto,0,soulmates,0,2004-06-04
+Suramto,0,soulmates,0,2004-10-21
+Tohir,0,soulmates,0,2004-07-13
+Toni Togar,0,soulmates,0,2004-12-30
+Ubeid,0,soulmates,0,2004-08-20
+Umar,0,soulmates,0,2004-04-18
+Umar Patek,0,soulmates,0,2004-10-09
+Umar Wayan,0,soulmates,0,2004-05-28
+Urwah,0,soulmates,0,2004-07-13
+Usman bin Sef,0,soulmates,0,2004-02-19
+Zulkarnaen,0,soulmates,0,2004-02-13
+Abdul Malik,0,trainingevents,0,2004-07-28
+Abdul Rauf,0,trainingevents,0,2004-03-09
+Abdul Rohim,0,trainingevents,0,2004-12-30
+Abdullah Sunata,0,trainingevents,0,2004-11-08
+Abdullah Sungkar,0,trainingevents,0,2004-09-12
+Abu Bakar Ba'asyir,0,trainingevents,0,2004-09-25
+Abu Dujanah,0,trainingevents,0,2004-08-05
+Abu Fida,0,trainingevents,0,2004-01-23
+Aceng Kurnia,0,trainingevents,0,2004-05-23
+Achmad Hasan,0,trainingevents,0,2004-06-29
+Adung,0,trainingevents,0,2004-11-30
+Agus Ahmad,0,trainingevents,0,2004-03-21
+Ahmad Rofiq Ridho,0,trainingevents,0,2004-06-30
+Ahmad Sayid Maulana,0,trainingevents,0,2004-05-05
+Ajengan Masduki,0,trainingevents,0,2004-02-19
+Akram,0,trainingevents,0,2004-02-07
+Ali Ghufron,0,trainingevents,0,2004-05-13
+Anif Solchanudin,0,trainingevents,0,2004-01-31
+Apuy,0,trainingevents,0,2004-01-25
+Aris Munandar,0,trainingevents,0,2004-05-08
+Asep Jaja,0,trainingevents,0,2004-03-14
+Asmar Latin Sani,0,trainingevents,0,2004-07-21
+Azhari Husin,0,trainingevents,0,2004-01-07
+Baharudin Soleh,0,trainingevents,0,2004-04-20
+Chandra,0,trainingevents,0,2004-06-14
+Cholily,0,trainingevents,0,2004-12-17
+Dani Chandra,0,trainingevents,0,2004-08-19
+Dulmatin,0,trainingevents,0,2004-11-17
+Enceng Kurnia,0,trainingevents,0,2004-05-05
+Engkos Kosasih,0,trainingevents,0,2004-06-13
+Fathurrahman al-Ghozi,0,trainingevents,0,2004-06-02
+Fathurrochman,0,trainingevents,0,2004-11-19
+Hambali,0,trainingevents,0,2004-12-16
+Hari Kuncoro,0,trainingevents,0,2004-12-17
+Harun,0,trainingevents,0,2004-10-01
+Hence Malewa,0,trainingevents,0,2004-07-02
+Heri Golun,0,trainingevents,0,2004-07-16
+Heri Sigu Samboja,0,trainingevents,0,2004-12-23
+Imam Bukhori,0,trainingevents,0,2004-04-13
+Imam Samudra,0,trainingevents,0,2004-05-06
+Iqbal,0,trainingevents,0,2004-11-23
+Iqbal Huseini,0,trainingevents,0,2004-05-21
+Irun Hidayat,0,trainingevents,0,2004-03-26
+Ismail,0,trainingevents,0,2004-07-23
+Iwan Dharmawan,0,trainingevents,0,2004-04-28
+Jabir,0,trainingevents,0,2004-11-21
+Joko Triharmanto,0,trainingevents,0,2004-11-27
+Joni Achmad Fauzan,0,trainingevents,0,2004-04-21
+Marwan,0,trainingevents,0,2004-07-12
+Misno,0,trainingevents,0,2004-12-25
+Mohamed Ihsan,0,trainingevents,0,2004-09-27
+Mohamed Rais,0,trainingevents,0,2004-03-19
+Mohamed Saifuddin (alias Faiz),0,trainingevents,0,2004-08-03
+Muchtar,0,trainingevents,0,2004-08-14
+Munfiatun,0,trainingevents,0,2004-08-26
+Mus'ab Sahidi,0,trainingevents,0,2004-01-10
+Muzayin Abdul Wahab,0,trainingevents,0,2004-04-19
+Nasir Abas,0,trainingevents,0,2004-11-07
+Noordin Mohammed Top,0,trainingevents,0,2004-03-29
+Purnama Putra,0,trainingevents,0,2004-04-19
+Qotadah,0,trainingevents,0,2004-04-27
+Rosihin Noor,0,trainingevents,0,2004-03-05
+Said Sungkar,0,trainingevents,0,2004-02-26
+Salik Firdaus,0,trainingevents,0,2004-05-06
+Salman,0,trainingevents,0,2004-11-15
+Saptono,0,trainingevents,0,2004-01-01
+Sardona Siliwangi,0,trainingevents,0,2004-04-13
+Son Hadi,0,trainingevents,0,2004-01-23
+Subur Sugiarto,0,trainingevents,0,2004-07-23
+Suramto,0,trainingevents,0,2004-04-01
+Tohir,0,trainingevents,0,2004-10-16
+Toni Togar,0,trainingevents,0,2004-08-01
+Ubeid,0,trainingevents,0,2004-10-13
+Umar,0,trainingevents,0,2004-08-19
+Umar Patek,0,trainingevents,0,2004-06-09
+Umar Wayan,0,trainingevents,0,2004-11-10
+Urwah,0,trainingevents,0,2004-06-22
+Usman bin Sef,0,trainingevents,0,2004-12-12
+Zulkarnaen,0,trainingevents,0,2004-12-29
